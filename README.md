@@ -25,3 +25,5 @@ spring boot 미니 프로젝트용으로 기능보다는 현재 나의 코드의
 - Jackson Databind (ObjectMapper용)
 - Swagger 3 (springdoc)
 - jjwt
+
+swagger 주소: http://43.200.222.198/swagger-ui/index.html
